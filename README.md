@@ -8,5 +8,7 @@ This project aims to use a reaction diffusion model applied to the case of rumor
 `Propagation des rumeurs` is a PPTX file of the project final presentation
 
 `Images` : folder with useful pictures for the project
+
 `matlab` : folder of the Matlab files used
+
 `references` : some papers that were useful to build this project
