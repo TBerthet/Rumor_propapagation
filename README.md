@@ -1,4 +1,5 @@
-# Rumor propapagation model
+# Rumor propapagation model 
+January 2024
 
 This project aims to use a reaction diffusion model applied to the case of rumor propagation. It"s a group project that was realized for a biomathematics course. 
 
